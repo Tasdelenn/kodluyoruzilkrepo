@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://app.patika.dev/courses/frontend-web-gelistirme) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Örnek Ekran GÖrüntüsü](D:/Depo/testTeam1Depo/patikaGit.jpg)
+![Sample Image](Images/gitRepoCreateSample.jpg)
 
 ## Installation
 Öncelikle projeyi "clone"layın (Buraya sizin reponuzdan aldığınız link gelecek).
